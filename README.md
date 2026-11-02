@@ -143,14 +143,6 @@ Currently practicing:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Chetan272005/Chetan272005/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
 ## 🎯 My 2026 Goals
 
 - 🚀 Improve my DSA skills
